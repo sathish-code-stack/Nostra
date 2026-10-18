@@ -51,13 +51,13 @@ Nostra/
 1. Clone the repository:
 
 ```
-   git clone https://github.com/praveen-analyze/nostra.git
+   git clone https://github.com/sathish-code-stack/Nostra.git
 ```
 
 2. Open the project folder:
 
 ```
-   cd nostra
+   cd Nostra
 ```
 
 3. Open `index.html` in your browser. No build step or installation is needed.
@@ -66,4 +66,4 @@ Nostra/
 
 ## Author
 
-Praveen
+Sathish
